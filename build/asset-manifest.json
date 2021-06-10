@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69ca2a1c.chunk.css",
+    "main.js": "/static/js/main.22724cbd.chunk.js",
+    "main.js.map": "/static/js/main.22724cbd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d94bbf3c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d94bbf3c.js.map",
+    "static/js/2.7cdbb6a0.chunk.js": "/static/js/2.7cdbb6a0.chunk.js",
+    "static/js/2.7cdbb6a0.chunk.js.map": "/static/js/2.7cdbb6a0.chunk.js.map",
+    "static/js/3.f9f2944e.chunk.js": "/static/js/3.f9f2944e.chunk.js",
+    "static/js/3.f9f2944e.chunk.js.map": "/static/js/3.f9f2944e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.69ca2a1c.chunk.css.map": "/static/css/main.69ca2a1c.chunk.css.map",
+    "static/js/2.7cdbb6a0.chunk.js.LICENSE.txt": "/static/js/2.7cdbb6a0.chunk.js.LICENSE.txt",
+    "static/media/magnify.24a9eb48.svg": "/static/media/magnify.24a9eb48.svg",
+    "static/media/shoe-green.20ea392b.png": "/static/media/shoe-green.20ea392b.png",
+    "static/media/shoe-grey.69854453.png": "/static/media/shoe-grey.69854453.png",
+    "static/media/shoe-red.16d501fc.png": "/static/media/shoe-red.16d501fc.png",
+    "static/media/variant-blue.c418cce5.svg": "/static/media/variant-blue.c418cce5.svg",
+    "static/media/variant-red.748238ab.svg": "/static/media/variant-red.748238ab.svg",
+    "static/media/variant-teal.b9fca147.svg": "/static/media/variant-teal.b9fca147.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d94bbf3c.js",
+    "static/js/2.7cdbb6a0.chunk.js",
+    "static/css/main.69ca2a1c.chunk.css",
+    "static/js/main.22724cbd.chunk.js"
+  ]
+}
